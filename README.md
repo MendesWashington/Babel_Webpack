@@ -1,2 +1,2 @@
 # Babel_Webpack
-Controle da build de um projeto utilizando React usado Babel e  Webpack
+Controle da build de um projeto React usado Babel e  Webpack
